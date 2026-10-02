@@ -8,7 +8,7 @@ Repositorio oficial de distribución y descarga directa de **Santa Escritura Des
 
 | Versión | Tipo de Instalador | Enlace Directo (HTTP 200) | Enlace de GitHub Release |
 | :---: | :---: | :--- | :--- |
-| **v1.0.0** | **Instalador Estándar (`.exe` NSIS)** | [Descarga Directa Santa.Escritura_1.0.0_x64-setup.exe](https://raw.githubusercontent.com/Louislam09/santa-escritura-releases/main/Santa.Escritura_1.0.0_x64-setup.exe) | [Release v1.0.0](https://github.com/Louislam09/santa-escritura-releases/releases/tag/v1.0.0) |
+| **v1.0.0** | **Instalador Estándar (`.exe` NSIS)** | [Descarga Directa Santa Escritura v1.0.0](https://louislam09.github.io/santa-escritura-releases/Santa%20Escritura_1.0.0_x64-setup.exe) | [Release v1.0.0](https://github.com/Louislam09/santa-escritura-releases/releases/tag/v1.0.0) |
 
 ---
 
