@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "notes": "Lanzamiento oficial de Santa Escritura Desktop v1.0.0.",
-  "pub_date": "2026-10-01T21:00:00Z",
+  "notes": "Lanzamiento oficial de Santa Biblia RV60 Desktop v1.0.0.",
+  "pub_date": "2026-10-05T21:45:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://louislam09.github.io/santa-escritura-releases/Santa%20Escritura_1.0.0_x64-setup.exe"
+      "url": "https://louislam09.github.io/santa-escritura-releases/Santa%20Biblia%20RV60_1.0.0_x64-setup.exe"
     }
   }
 }
